@@ -1,0 +1,15 @@
+#navbar
+{
+    display: flex;
+    justify-content: space-between;
+    border: 1px solid black;
+}
+#options
+{
+    display: flex;
+    gap: 15px;
+}
+#container
+{
+    border: 1px solid black;
+}
